@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px' margin='0 auto'/>
+<img src='https://github.com/JhonatanP16/JhonatanP16/blob/main/react.png' alt='logo' width='100px' margin='0 auto'/>
 
 Hola! Bienvenido(a)! 👋
 Soy **Jhonatan**.
